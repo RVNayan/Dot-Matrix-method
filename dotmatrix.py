@@ -134,6 +134,6 @@ for i in range(len(A)):
     x2new.append(xx)
 xnew=x2new
 
-
-
+pt.title("Dot-Matrix")
+pt.grid()
 pt.show()
