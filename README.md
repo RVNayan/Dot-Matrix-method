@@ -2,7 +2,7 @@ This Python code uses Matplotlib library for generating a Dot matrix. Make sure 
 
     pip install matplotlib
 
-This will install all the required libraries for this code.
+This will install all the required libraries for the code.
 
 Enter You're test sequences in the text files labelled as Sequence1.txt and Sequence2.txt. and run the code
 
