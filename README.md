@@ -1,7 +1,7 @@
-This Python code uses Matplotlib library for generating a Dot matrix. Make sure you have already installed this feature in you're PC. If you have'nt then go to the terminal and enter
-***
-pip install Matplotlib
-***
+This Python code uses Matplotlib library for generating a Dot matrix. Make sure you have already installed this feature in you're PC. If you haven't then type the following command line in the terminal
+
+    pip install Matplotlib
+
 
 Place You're test sequences in the text files labelled as Sequence(1 or 2).txt. and run the code.
 
