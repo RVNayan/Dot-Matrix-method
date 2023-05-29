@@ -10,7 +10,7 @@ aa = open('Sequence1.txt').read()
 bb = open('Sequence2.txt').read()
 a=list(aa)
 b=list(bb)
-print(aa,bb)
+print("Sequence 1:",aa ,"Sequence 2:",bb)
 
 if(len(a)>len(b)):
     f=len(a)-len(b)
@@ -121,7 +121,7 @@ pt.ylim(-1,len(B)-0.5)
 
 xnew=[]
 xo=0
-############################### uk
+############################### 
 for i in range(len(X)):
     if(i%len(A)==0):
         xnew.append(X[i:i+len(B)])
@@ -134,22 +134,6 @@ for i in range(len(A)):
     x2new.append(xx)
 xnew=x2new
 
-###############################uk
 
-for i in d:
-    jd=list(i)
-    jdd=d[i]
-    jx=jd[0]
-    jy=jd[1]
-    
-    jx2=jdd[0]
-    jy2=jdd[1]
-    if(jx-jy==0 and jy2-jx2==0):
-        print(A[jx:jx2+1])
-    
-def sequence_finder(x,y): #X,Y store nearly len(a)^2 values
-    for i in range(len(x)):
-        print(x[i],y[i])
-        
 
 pt.show()
