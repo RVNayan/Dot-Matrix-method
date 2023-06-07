@@ -1,4 +1,4 @@
-This Python code uses Matplotlib library for generating a Dot matrix. Make sure that you have already installed this feature before running the code. If you haven't then type the following command line in the terminal
+This Python code uses Matplotlib library for generating a Dot matrix. Make sure this feature is installed before running the code. If you haven't then type the following command line in the terminal
 
     pip install matplotlib
 
